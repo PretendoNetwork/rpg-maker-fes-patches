@@ -11,5 +11,5 @@ To compile the patches you need armips, make, and flips installed.
 You need decompressed .code files in the root folder of your local copy for each version of the game you want to compile patches for.
 
 ### Filenames
-RPG Maker Fes/00040000001BD500 (Latest update, USA): codefestival.bin
-RPG Maker Player/00040000001BD400 (USA, no update available): codefestivalplayer.bin
+- RPG Maker Fes/00040000001BD500 (Latest update, USA): codefestival.bin
+- RPG Maker Player/00040000001BD400 (USA, no update available): codefestivalplayer.bin
